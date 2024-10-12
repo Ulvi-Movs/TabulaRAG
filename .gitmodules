@@ -1,0 +1,3 @@
+[submodule "Data_loader"]
+	path = Data_loader
+	url = https://github.com/Ulvi-Movs/Data_loader.git
